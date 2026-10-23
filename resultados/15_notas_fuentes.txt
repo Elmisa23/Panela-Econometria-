@@ -1,0 +1,906 @@
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.3 | fila 1 | Regresar al índice
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.3 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.3 | fila 6 | Año 2015
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.3 | fila 10 | Fecha | Grupo | Producto | Fuente | Precio
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.3 | fila 11 | CARNES | Alas de pollo con costillar | Armenia, Mercar
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.3 | fila 12 | CARNES | Alas de pollo con costillar | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.3 | fila 13 | CARNES | Alas de pollo con costillar | Barranquilla, Granabastos
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.3 | fila 14 | CARNES | Alas de pollo con costillar | Bogotá, D.C., Frigorífico Ble Ltda.
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.3 | fila 15 | CARNES | Alas de pollo con costillar | Bogotá, D.C., Frigorífico Guadalupe
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.4 | fila 1 | Regresar al índice
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.4 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.4 | fila 6 | Año 2016
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.4 | fila 10 | Fecha | Grupo | Producto | Fuente | Precio
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.4 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.4 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.4 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.4 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.4 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Cali, Santa Helena
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.5 | fila 1 | Regresar al índice
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.5 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.5 | fila 6 | Año 2017
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.5 | fila 10 | Fecha | Grupo | Producto | Fuente | Precio
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.5 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.5 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.5 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.5 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas_2015_2017.xlsx | 1.5 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas_2015_2017.xlsx | Índice | fila 6 | SISTEMA DE INFORMACIÓN DE PRECIOS Y ABASTECIMIENTO DEL SECTOR AGROPECUARIO -SIPSA-
+series-historicas-precios-mayoristas_2015_2017.xlsx | Índice | fila 8 | Precios mayoristas - Series históricas
+series-historicas-precios-mayoristas_2015_2017.xlsx | Índice | fila 13 | 1.3 | Año 2015
+series-historicas-precios-mayoristas_2015_2017.xlsx | Índice | fila 14 | 1.4 | Año 2016
+series-historicas-precios-mayoristas_2015_2017.xlsx | Índice | fila 15 | 1.5 | Año 2017
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 1 | Regresar al índice
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 6 | Año 2018
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2018.xlsx | 2018 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2018.xlsx | Índice | fila 6 | SISTEMA DE INFORMACIÓN DE PRECIOS Y ABASTECIMIENTO DEL SECTOR AGROPECUARIO -SIPSA-
+series-historicas-precios-mayoristas-2018.xlsx | Índice | fila 8 | Precios mayoristas - Series históricas
+series-historicas-precios-mayoristas-2018.xlsx | Índice | fila 11 | 1.1 | Año 2018
+series-historicas-precios-mayoristas-2018.xlsx | Índice | fila 13 | Fecha de actualización: 17 de enero de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 6 | Enero de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Ene 19 | fila 4713 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 6 | Febrero de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Feb 19 | fila 4689 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 6 | Marzo de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Mar 19 | fila 4737 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 6 | Abril de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Abr 19 | fila 4750 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 6 | Mayo de 2019
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | May 19 | fila 4755 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 6 | Junio de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Jun 19 | fila 4719 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 6 | Julio de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Jul 19 | fila 4739 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 6 | Agosto de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Ago 19 | fila 4736 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 6 | Septiembre de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Sep 19 | fila 4735 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 6 | Octubre de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Oct 19 | fila 4731 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 6 | Noviembre de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Nov 19 | fila 4734 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 6 | Diciembre de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 7 | Fecha | Grupo | Producto | Fuente | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2019.xlsx | Dic 19 | fila 4711 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2019.xlsx | Índice | fila 3 | SISTEMA DE INFORMACIÓN DE PRECIOS Y ABASTECIMIENTO DEL SECTOR AGROPECUARIO                         -SIPSA-
+series-historicas-precios-mayoristas-2019.xlsx | Índice | fila 5 | Precios mayoristas
+series-historicas-precios-mayoristas-2019.xlsx | Índice | fila 8 | 1.1 | Enero de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Índice | fila 9 | 1.2 | Febrero de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Índice | fila 10 | 1.3 | Marzo de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Índice | fila 11 | 1.4 | Abril de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Índice | fila 12 | 1.5 | Mayo de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Índice | fila 13 | 1.6 | Junio de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Índice | fila 14 | 1.7 | Julio de 2019
+series-historicas-precios-mayoristas-2019.xlsx | Índice | fila 15 | 1.8 | Agosto de 2019
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 6 | Enero de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Ene 20 | fila 4688 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 6 | Febrero de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Feb 20 | fila 4681 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 6 | Marzo de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Mar 20 | fila 4695 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 6 | Abril de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2020.xlsx | Abr 20 | fila 4617 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 6 | Mayo de 2020
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2020.xlsx | May 20 | fila 4627 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 6 | Junio de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2020.xlsx | Jun 20 | fila 4650 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 6 | Julio de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2020.xlsx | Jul 20 | fila 4658 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 6 | Agosto de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2020.xlsx | Ago 20 | fila 4656 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 6 | Septiembre de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2020.xlsx | Sep 20 | fila 4644 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 6 | Octubre de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2020.xlsx | Oct 20 | fila 4639 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 6 | Noviembre de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2020.xlsx | Nov 20 | fila 4642 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 6 | Diciembre de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio  por kilogramo*
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2020.xlsx | Dic 20 | fila 4646 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2020.xlsx | Índice | fila 3 | SISTEMA DE INFORMACIÓN DE PRECIOS Y ABASTECIMIENTO DEL SECTOR AGROPECUARIO                         -SIPSA-
+series-historicas-precios-mayoristas-2020.xlsx | Índice | fila 5 | Precios mayoristas
+series-historicas-precios-mayoristas-2020.xlsx | Índice | fila 8 | 1.1 | Enero de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Índice | fila 9 | 1.2 | Febrero de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Índice | fila 10 | 1.3 | Marzo de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Índice | fila 11 | 1.4 | Abril de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Índice | fila 12 | 1.5 | Mayo de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Índice | fila 13 | 1.6 | Junio de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Índice | fila 14 | 1.7 | Julio de 2020
+series-historicas-precios-mayoristas-2020.xlsx | Índice | fila 15 | 1.8 | Agosto de 2020
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 6 | Enero de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2021.xlsx | Ene 21 | fila 4611 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 6 | Febrero de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2021.xlsx | Feb 21 | fila 4589 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 6 | Marzo de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2021.xlsx | Mar 21 | fila 4618 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 6 | Abril de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2021.xlsx | Abr 21 | fila 4619 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 6 | Mayo de 2021
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Medellín, Central Mayorista de Antioquia
+series-historicas-precios-mayoristas-2021.xlsx | May 21 | fila 4352 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 6 | Junio de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2021.xlsx | Jun 21 | fila 4536 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 6 | Julio de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2021.xlsx | Jul 21 | fila 4559 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 6 | Agosto de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Ago 21 | fila 4537 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 6 | Septiembre de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Sep 21 | fila 4543 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 6 | Octubre de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Oct 21 | fila 4553 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 6 | Noviembre de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 8 | Verduras y Hortalizas | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 9 | Verduras y Hortalizas | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 10 | Verduras y Hortalizas | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 11 | Verduras y Hortalizas | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 12 | Verduras y Hortalizas | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 13 | Verduras y Hortalizas | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 14 | Verduras y Hortalizas | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 15 | Verduras y Hortalizas | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Nov 21 | fila 4598 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 6 | Diciembre de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 8 | Verduras y Hortalizas | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 9 | Verduras y Hortalizas | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 10 | Verduras y Hortalizas | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 11 | Verduras y Hortalizas | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 12 | Verduras y Hortalizas | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 13 | Verduras y Hortalizas | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 14 | Verduras y Hortalizas | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 15 | Verduras y Hortalizas | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2021.xlsx | Dic 21 | fila 4532 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2021.xlsx | Índice | fila 3 | SISTEMA DE INFORMACIÓN DE PRECIOS Y ABASTECIMIENTO DEL SECTOR AGROPECUARIO                         -SIPSA-
+series-historicas-precios-mayoristas-2021.xlsx | Índice | fila 5 | Precios mayoristas
+series-historicas-precios-mayoristas-2021.xlsx | Índice | fila 8 | 1.1 | Enero de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Índice | fila 9 | 1.2 | Febrero de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Índice | fila 10 | 1.3 | Marzo de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Índice | fila 11 | 1.4 | Abril de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Índice | fila 12 | 1.5 | Mayo de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Índice | fila 13 | 1.6 | Junio de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Índice | fila 14 | 1.7 | Julio de 2021
+series-historicas-precios-mayoristas-2021.xlsx | Índice | fila 15 | 1.8 | Agosto de 2021
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 6 | Enero de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Ene 22 | fila 4418 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 6 | Febrero de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Feb 22 | fila 4485 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 6 | Marzo de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Mar 22 | fila 4506 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 6 | Abril de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Abr 22 | fila 4503 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 6 | Mayo de 2022
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | May 22 | fila 4492 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 6 | Junio de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2022.xlsx | Jun 22 | fila 4487 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 6 | Julio de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Jul 22 | fila 4476 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 6 | Agosto de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Ago 22 | fila 4495 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 6 | Septiembre de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Sep 22 | fila 4477 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 6 | Octubre de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Barranquilla, Barranquillita
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Oct 22 | fila 4481 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 6 | Noviembre de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2022.xlsx | Nov 22 | fila 4467 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 3 | Regresar al índice
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 4 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 6 | Diciembre de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+series-historicas-precios-mayoristas-2022.xlsx | Dic 22 | fila 4485 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+series-historicas-precios-mayoristas-2022.xlsx | Índice | fila 3 | SISTEMA DE INFORMACIÓN DE PRECIOS Y ABASTECIMIENTO DEL SECTOR AGROPECUARIO                         -SIPSA-
+series-historicas-precios-mayoristas-2022.xlsx | Índice | fila 5 | Precios mayoristas
+series-historicas-precios-mayoristas-2022.xlsx | Índice | fila 8 | 1.1 | Enero de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Índice | fila 9 | 1.2 | Febrero de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Índice | fila 10 | 1.3 | Marzo de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Índice | fila 11 | 1.4 | Abril de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Índice | fila 12 | 1.5 | Mayo de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Índice | fila 13 | 1.6 | Junio de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Índice | fila 14 | 1.7 | Julio de 2022
+series-historicas-precios-mayoristas-2022.xlsx | Índice | fila 15 | 1.8 | Agosto de 2022
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 6 | Enero de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Enero | fila 4468 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 6 | Febrero de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Febrero | fila 4472 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 6 | Marzo de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Marzo | fila 4461 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 6 | Abril de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Abril | fila 4453 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 6 | Mayo de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Mayo | fila 4518 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 6 | Junio de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Junio | fila 4503 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 6 | Julio de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Julio | fila 4501 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 6 | Agosto de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Agosto | fila 4490 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 6 | Septiembre de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Septiembre | fila 4485 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 6 | Octubre de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Octubre | fila 4514 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 6 | Noviembre de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Noviembre | fila 4542 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 3 | Regresar al índice
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 4 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 6 | Diciembre de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 7 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Diciembre | fila 4529 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Índice | fila 3 | SISTEMA DE INFORMACIÓN DE PRECIOS Y ABASTECIMIENTO DEL SECTOR AGROPECUARIO                         -SIPSA-
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Índice | fila 5 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Índice | fila 8 | 1.1 | Enero de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Índice | fila 9 | 1.2 | Febrero de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Índice | fila 10 | 1.3 | Marzo de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Índice | fila 11 | 1.4 | Abril de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Índice | fila 12 | 1.5 | Mayo de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Índice | fila 13 | 1.6 | Junio de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Índice | fila 14 | 1.7 | Julio de 2023
+anex-SIPSA-SerieHistoricaMayorista-2023.xlsx | Índice | fila 15 | 1.8 | Agosto de 2023
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 4 | SISTEMA DE INFORMACIÓN DE PRECIOS Y ABASTECIMIENTO DEL SECTOR AGROPECUARIO 
+SIPSA
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 5 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 6 | Fecha | Grupo | Producto | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 7 | VERDURAS Y HORTALIZAS | Acelga | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | Medellín, Central Mayorista de Antioquia
+anex-SIPSA-SerieHistoricaMayorista-2024.xlsx | 2024 | fila 54050 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 4 | SISTEMA DE INFORMACIÓN DE PRECIOS Y ABASTECIMIENTO DEL SECTOR AGROPECUARIO 
+SIPSA
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 5 | Precios mayoristas
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 6 | Fecha | Grupo | Producto | Código CPC | Mercado | Precio promedio por kilogramo*
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 7 | VERDURAS Y HORTALIZAS | Acelga | 0121903 | Armenia, Mercar
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 8 | VERDURAS Y HORTALIZAS | Acelga | 0121903 | Bogotá, D.C., Corabastos
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 9 | VERDURAS Y HORTALIZAS | Acelga | 0121903 | Bucaramanga, Centroabastos
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 10 | VERDURAS Y HORTALIZAS | Acelga | 0121903 | Chiquinquirá (Boyacá)
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 11 | VERDURAS Y HORTALIZAS | Acelga | 0121903 | Duitama (Boyacá), Mercaplaza
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 12 | VERDURAS Y HORTALIZAS | Acelga | 0121903 | Florencia (Caquetá)
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 13 | VERDURAS Y HORTALIZAS | Acelga | 0121903 | Ibagué, Plaza La 21
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 14 | VERDURAS Y HORTALIZAS | Acelga | 0121903 | Ipiales (Nariño), Ipiales somos todos
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 15 | VERDURAS Y HORTALIZAS | Acelga | 0121903 | Medellín, Central Mayorista de Antioquia
+anex-SIPSA-SerieHistoricaMayorista-2025.xlsx | 2025 | fila 54417 | * Los precios reportados para los huevos y el bocadillo son $/unidad y los del aceite, el vinagre y el jugo de frutas $/litro.

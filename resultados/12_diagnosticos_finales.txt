@@ -1,0 +1,60 @@
+integrado
+Válido: True
+Convergencia: {'fopt': np.float64(6.60994572266556), 'gopt': array([ 4.85211871e-07,  2.83995050e-06, -1.65201186e-08]), 'fcalls': 76, 'warnflag': 0, 'converged': True, 'iterations': 17}
+Raíces AR, módulos: [1.23294437 1.30252799 1.30252799 1.38692495 1.38692495]
+Coeficientes en escala del ajuste (factor 1):
+         coeficiente  error_estandar       p_valor
+ar.L1       0.236751        0.086026  5.921392e-03
+ar.L5       0.248529        0.065461  1.467091e-04
+sigma2  35559.521638     2470.589530  5.714803e-47
+Ljung-Box:
+      lb_stat  lb_pvalue
+6    4.431358   0.350764
+12   9.326273   0.501444
+24  17.685412   0.724469
+Jarque-Bera: estadístico=102.48431945381803, p=5.569456160693863e-23
+ARCH LM (6 rezagos): estadístico=4.7279959259765345, p=0.5791424788513038
+Desviación estándar primera/segunda mitad: 176.476 / 202.264 COP/kg
+
+niveles_ar2
+Válido: True
+Convergencia: {'fopt': np.float64(6.679570567799596), 'gopt': array([ 9.84279327e-07, -2.56683563e-08,  4.44089210e-07, -1.09743326e-06,
+       -1.42819090e-07]), 'fcalls': 198, 'warnflag': 0, 'converged': True, 'iterations': 28}
+Raíces AR, módulos: [1.07399709 3.60611783]
+Coeficientes en escala del ajuste (factor 1):
+         coeficiente  error_estandar       p_valor
+const    1797.544427      860.670880  3.674927e-02
+x1         20.771636        8.228588  1.159205e-02
+ar.L1       1.208408        0.077658  1.348497e-54
+ar.L2      -0.258200        0.072345  3.583585e-04
+sigma2  36345.465134     2977.481173  2.859761e-34
+Ljung-Box:
+      lb_stat  lb_pvalue
+6   13.443852   0.009299
+12  16.051475   0.098168
+24  26.123253   0.246428
+Jarque-Bera: estadístico=76.92878620078325, p=1.9729965540927493e-17
+ARCH LM (6 rezagos): estadístico=6.029177707651929, p=0.4199295279961461
+Desviación estándar primera/segunda mitad: 184.633 / 199.268 COP/kg
+
+niveles_ar126
+Válido: True
+Convergencia: {'fopt': np.float64(-0.26565871856015677), 'gopt': array([ 3.10219184e-05,  2.07195939e-03,  8.26804736e-06,  7.51070317e-06,
+        1.06131887e-04, -2.63446109e-04]), 'fcalls': 406, 'warnflag': 0, 'converged': True, 'iterations': 49}
+Raíces AR, módulos: [1.08900521 1.08900521 1.55359464 1.55359464 1.71393702 1.71393702]
+Coeficientes en escala del ajuste (factor 1000):
+        coeficiente  error_estandar       p_valor
+const      1.895793        0.460285  3.809475e-05
+x1         0.018455        0.004788  1.160548e-04
+ar.L1      1.130861        0.077029  8.543343e-49
+ar.L2     -0.092161        0.081964  2.608394e-01
+ar.L6     -0.118925        0.035763  8.828565e-04
+sigma2     0.033603        0.002826  1.310990e-32
+Ljung-Box:
+      lb_stat  lb_pvalue
+6   12.107283   0.007025
+12  18.078712   0.034271
+24  25.801057   0.214136
+Jarque-Bera: estadístico=75.98899189473542, p=3.156458380892353e-17
+ARCH LM (6 rezagos): estadístico=5.408852179104016, p=0.49254088086961645
+Desviación estándar primera/segunda mitad: 173.511 / 195.646 COP/kg

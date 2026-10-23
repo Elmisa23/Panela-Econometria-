@@ -1,0 +1,97 @@
+
+original, escala=1, válido=False
+convergencia={'fopt': np.float64(-0.0), 'gopt': array([0., 0., 0., 0., 0., 0.]), 'fcalls': 315, 'warnflag': 0, 'converged': True, 'iterations': 9}
+raíces AR=[1.00352651 0.99688783 0.99688783 1.11578472 1.11578472 1.19540066]
+                                 SARIMAX Results                                  
+==================================================================================
+Dep. Variable:              precio_cop_kg   No. Observations:                  132
+Model:             ARIMA([1, 2, 6], 0, 0)   Log Likelihood                   0.000
+Date:                    Wed, 21 Oct 2026   AIC                             12.000
+Time:                            14:59:20   BIC                             29.297
+Sample:                        01-01-2015   HQIC                            19.029
+                             - 12-01-2025                                         
+Covariance Type:                      opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const       1797.5581         -0       -inf      0.000    1797.558    1797.558
+x1            20.0705         -0       -inf      0.000      20.071      20.071
+ar.L1          0.5377         -0       -inf      0.000       0.538       0.538
+ar.L2         -0.2262         -0        inf      0.000      -0.226      -0.226
+ar.L6          0.6738         -0       -inf      0.000       0.674       0.674
+sigma2      3.499e+04         -0       -inf      0.000     3.5e+04     3.5e+04
+===================================================================================
+Ljung-Box (L1) (Q):                    nan   Jarque-Bera (JB):                  nan
+Prob(Q):                               nan   Prob(JB):                          nan
+Heteroskedasticity (H):                nan   Skew:                              nan
+Prob(H) (two-sided):                   nan   Kurtosis:                          nan
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
+[2] Covariance matrix is singular or near-singular, with condition number    inf. Standard errors may be unstable.
+
+reinicio, escala=1, válido=False
+convergencia={'fopt': np.float64(-0.0), 'gopt': array([    0.        ,     0.        , 27225.90975382, 14557.02401475,
+       16639.84608501,     0.        ]), 'fcalls': 315, 'warnflag': 2, 'converged': False, 'iterations': 1}
+raíces AR=[0.69494362 0.96157945 1.05589697 1.05589697 1.1718786  1.1718786 ]
+                                 SARIMAX Results                                  
+==================================================================================
+Dep. Variable:              precio_cop_kg   No. Observations:                  132
+Model:             ARIMA([1, 2, 6], 0, 0)   Log Likelihood                   0.000
+Date:                    Wed, 21 Oct 2026   AIC                             12.000
+Time:                            14:59:22   BIC                             29.297
+Sample:                        01-01-2015   HQIC                            19.029
+                             - 12-01-2025                                         
+Covariance Type:                      opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const       1797.5444   6.64e-08   2.71e+10      0.000    1797.544    1797.544
+x1            20.7716   5.74e-06   3.62e+06      0.000      20.772      20.772
+ar.L1          0.9561   5.17e-07   1.85e+06      0.000       0.956       0.956
+ar.L2          0.9229   4.08e-08   2.26e+07      0.000       0.923       0.923
+ar.L6         -0.9774         -0        inf      0.000      -0.977      -0.977
+sigma2      3.635e+04   1.05e-08   3.46e+12      0.000    3.63e+04    3.63e+04
+===================================================================================
+Ljung-Box (L1) (Q):                    nan   Jarque-Bera (JB):                  nan
+Prob(Q):                               nan   Prob(JB):                          nan
+Heteroskedasticity (H):                nan   Skew:                              nan
+Prob(H) (two-sided):                   nan   Kurtosis:                          nan
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
+[2] Covariance matrix is singular or near-singular, with condition number    inf. Standard errors may be unstable.
+
+reinicio_escalado, escala=1000, válido=True
+convergencia={'fopt': np.float64(-0.26565871856015677), 'gopt': array([ 3.10219184e-05,  2.07195939e-03,  8.26804736e-06,  7.51070317e-06,
+        1.06131887e-04, -2.63446109e-04]), 'fcalls': 406, 'warnflag': 0, 'converged': True, 'iterations': 49}
+raíces AR=[1.08900521 1.08900521 1.55359464 1.55359464 1.71393702 1.71393702]
+                                 SARIMAX Results                                  
+==================================================================================
+Dep. Variable:              precio_cop_kg   No. Observations:                  132
+Model:             ARIMA([1, 2, 6], 0, 0)   Log Likelihood                  35.067
+Date:                    Wed, 21 Oct 2026   AIC                            -58.134
+Time:                            14:59:24   BIC                            -40.837
+Sample:                        01-01-2015   HQIC                           -51.105
+                             - 12-01-2025                                         
+Covariance Type:                      opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.8958      0.460      4.119      0.000       0.994       2.798
+x1             0.0185      0.005      3.854      0.000       0.009       0.028
+ar.L1          1.1309      0.077     14.681      0.000       0.980       1.282
+ar.L2         -0.0922      0.082     -1.124      0.261      -0.253       0.068
+ar.L6         -0.1189      0.036     -3.325      0.001      -0.189      -0.049
+sigma2         0.0336      0.003     11.891      0.000       0.028       0.039
+===================================================================================
+Ljung-Box (L1) (Q):                   0.02   Jarque-Bera (JB):                76.68
+Prob(Q):                              0.89   Prob(JB):                         0.00
+Heteroskedasticity (H):               1.16   Skew:                             0.44
+Prob(H) (two-sided):                  0.63   Kurtosis:                         6.63
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
